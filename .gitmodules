@@ -1,0 +1,3 @@
+[submodule "src/backend"]
+	path = src/backend
+	url = https://github.com/23-24Sem1-Courses/ct313hm01-project-backend-ngtphat-towa.git
